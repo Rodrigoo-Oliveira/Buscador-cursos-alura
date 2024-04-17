@@ -20,6 +20,7 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\DomCrawler\\' => 29,
+            'Symfony\\Component\\CssSelector\\' => 30,
         ),
         'R' => 
         array (
@@ -54,6 +55,10 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
         'Symfony\\Component\\DomCrawler\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/dom-crawler',
+        ),
+        'Symfony\\Component\\CssSelector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/css-selector',
         ),
         'RodrigooOliveira\\BuscadorCursos\\' => 
         array (

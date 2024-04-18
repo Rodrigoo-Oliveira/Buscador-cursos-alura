@@ -22,10 +22,6 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
             'Symfony\\Component\\DomCrawler\\' => 29,
             'Symfony\\Component\\CssSelector\\' => 30,
         ),
-        'R' => 
-        array (
-            'RodrigooOliveira\\BuscadorCursos\\' => 32,
-        ),
         'P' => 
         array (
             'Psr\\Http\\Message\\' => 17,
@@ -40,6 +36,10 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
+        ),
+        'A' => 
+        array (
+            'Alura\\BuscadorDeCursos\\' => 23,
         ),
     );
 
@@ -59,10 +59,6 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
         'Symfony\\Component\\CssSelector\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/css-selector',
-        ),
-        'RodrigooOliveira\\BuscadorCursos\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
         'Psr\\Http\\Message\\' => 
         array (
@@ -88,6 +84,10 @@ class ComposerStaticInitf8b6eb5f0d8f6be323b7d08a6d692744
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'Alura\\BuscadorDeCursos\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

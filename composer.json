@@ -2,11 +2,6 @@
     "name": "rodrigoo-oliveira/buscador-cursos",
     "description": "Projetos que busca os cursos no site da Alura",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "RodrigooOliveira\\BuscadorCursos\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Rodrigoo-Oliveira",
@@ -17,6 +12,11 @@
         "guzzlehttp/guzzle": "^7.8",
         "symfony/dom-crawler": "^7.0",
         "symfony/css-selector": "^7.0"
+    },
 
+    "autoload": {
+        "psr-4": {
+            "Alura\\BuscadorDeCursos\\": "src/"
+        }
     }
 }

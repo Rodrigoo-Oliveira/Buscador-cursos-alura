@@ -1,1 +1,3 @@
-# Buscador-cursos-alura
+# Documentação do componente
+
+Este componente é excelente!!
